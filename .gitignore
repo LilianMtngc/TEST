@@ -1,0 +1,14 @@
+# Outputs Jupyter
+*.ipynb_checkpoints
+output*.ipynb
+
+# Données volumineuses
+*.h5
+*.zarr/
+*.csv
+data/
+results/
+
+# Environnements
+__pycache__/
+*.pyc
